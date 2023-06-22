@@ -97,5 +97,10 @@ public:
 			cout << endl;
 		}
 	}
-	
 };
+
+int main() {
+	Queues Q;
+	char ch;
+
+}
